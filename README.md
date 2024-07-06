@@ -13,23 +13,27 @@
 <!--Languages -->
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,solidity" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,java" />
 </a>
 
 <!--WebDev -->
-<h3 align="left">Web Development:</h3>
+<h3 align="left">Front-end Development:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs,express,postman,react,redux,nginx" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,postman,react,nextjs,bootstrap,vite" />
+</a>
+<h3 align="left">Machine Learning:</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=sklearn,fastapi,flask,processing,selenium,tensorflow" />
 </a>
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=redis,ipfs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </a>
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,regex,docker,kubernetes,aws,gcp,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vercel,vscode" />
 </a>
 
 
