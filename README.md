@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
-<h3 align="center">Passionate to do Problem Solving and A Machine Learning Engineer and React Developer.</h3>
+<h3 align="center">Software Engineer | Java, AWS, Microservices, AI/LLMs | Building cloud-native systems, automation agents & scalable products.</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 
@@ -13,7 +13,7 @@
 <!--Languages -->
 <h3 align="left">Languages:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,py,java" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,c" />
 </a>
 
 <!--WebDev -->
@@ -28,7 +28,7 @@
 
 <h3 align="left">Databases:</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
 </a>
   <!-- Tools -->
 <h3 align="left">Tools:</h3>
